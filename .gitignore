@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/
+check_data.py
+train.py
